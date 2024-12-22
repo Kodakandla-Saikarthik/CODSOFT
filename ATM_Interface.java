@@ -1,5 +1,4 @@
-package myprogram;
-import java.util.Scanner;  
+ximport java.util.Scanner;  
 
 public class ATMMechine {
  public static void main(String args[] )  {  
