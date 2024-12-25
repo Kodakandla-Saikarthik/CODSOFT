@@ -1,6 +1,6 @@
 package myprogram;
 import java.util.Scanner;
-public class studentGradeCalculator {
+class studentGradeCalculator {
 	public static void main(String args[])
 	{
 		int sum=0;
