@@ -2,7 +2,7 @@ package myprogram;
 
 import java.util.Random;
 import java.util.Scanner;
-public class numberGuessingGame {
+class numberGuessingGame {
 	public static void main(String args[]) {
 	Random rand=new Random();
 	Scanner sc=new Scanner(System.in);
